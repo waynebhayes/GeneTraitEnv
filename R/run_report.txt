@@ -1,0 +1,4 @@
+seed= -665491986 traits= 2 
+K= 1 
+Round  1 
+ Goal of obj  5e-05 
