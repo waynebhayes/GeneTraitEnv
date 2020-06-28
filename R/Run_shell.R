@@ -1,0 +1,13 @@
+library(stringr)
+library(dplyr)
+source("../../Shuffle.R")
+source("../../Train_SA.R")
+source("../../Kfold.R")
+source("../../Validate.R")
+source("../../Draw.R")
+source("../../None_zero_idx_same.R")
+source("../../Delete.R")
+source("../../Ins_right.R")
+source("../../Main.R")
+
+result<-Main("Data Matrix.csv", F, 4, 1, 2, 0.05)
